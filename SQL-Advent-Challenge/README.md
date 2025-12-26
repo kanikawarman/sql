@@ -7,4 +7,6 @@ This repository contains my solutions to Interview Master's 24-day SQL Advent Ca
 
 The SQL Advent Calendar is a festive coding challenge featuring 24 days of SQL problems, hosted by Interview Master.
 
+[View Completion Certificate](path/to/your/file.pdf)
+
 Learn more at [interviewmaster.ai/advent](https://www.interviewmaster.ai/advent)
